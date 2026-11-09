@@ -41,7 +41,7 @@ The exact query text and captured answers are preserved in [the observations dat
 
 ## Collection and recording
 
-The responses were supplied in a transcript dated 9 November 2026. The dataset preserves the response text as captured in that source transcript. URLs explicitly present in each response are recorded in the `cited_sources` field.
+The responses were supplied in a transcript dated 9 November 2026. The dataset preserves the response text as captured in that source transcript. URLs explicitly present in each captured response are recorded in the `cited_sources` field. This field reflects URLs visible in the transcript, not a separately authenticated record of every citation shown in the original product interface.
 
 No model version or interface identifier was recorded in the source material. These fields are therefore null rather than inferred. The dataset records one captured response for each platform-query pair; it does not imply repeated trials or statistical sampling.
 
