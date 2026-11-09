@@ -55,3 +55,10 @@ The repository is intended to contain:
 B2B fintech buyers increasingly have access to AI-generated answers when investigating payment infrastructure, embedded finance, compliance, cross-border payments and other technical problems.
 
 Understanding the information these systems present can help fintech companies identify content gaps, improve the clarity of their technical information and develop more useful resources for potential business customers.
+
+## Documentation and dataset
+
+- [Research methodology](research/methodology.md): study design, sample, recording approach and limitations.
+- [Observations dataset](data/observations.jsonl): 30 captured responses across 10 B2B fintech questions and three AI platforms, in JSON Lines format.
+
+The dataset preserves the captured response text. Model versions and interface details were not recorded in the source transcript and are left unspecified. See the methodology for the full limitations.
