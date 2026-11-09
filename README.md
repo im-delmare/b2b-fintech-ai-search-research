@@ -62,3 +62,4 @@ Understanding the information these systems present can help fintech companies i
 - [Observations dataset](data/observations.jsonl): 30 captured responses across 10 B2B fintech questions and three AI platforms, in JSON Lines format.
 
 The dataset preserves the captured response text. Model versions and interface details were not recorded in the source transcript and are left unspecified. See the methodology for the full limitations.
+- [Initial findings](research/initial-findings.md): descriptive analysis of buyer-query stages, provider-name mentions and explicit URLs in the captured transcripts.
